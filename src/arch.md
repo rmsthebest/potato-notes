@@ -166,6 +166,7 @@ AUR
 git clone https://aur.archlinux.org/paru.git
 cd paru
 makepkg -si
+```
 
 ## Configuration
 - [Configure Plymouth](https://wiki.archlinux.org/title/Plymouth)
